@@ -1,4 +1,5 @@
 aldshfaldsfnlthis first line is being changed.I am adding new comment
 asdfadsfadsf, tried changing this line
 i dont want to modify
-sarsarle enni enno anukuntam anni jaruguthaya apudu apudu merge conflicts arise aithunayi
+sarsarle enni enno anukuntam anni jaruguthaya apudu apudu merge conflicts arise aithunayi, hari rasina line peekesi idi petta
+>>>>>>> 6ed815dfca74377a56905071e44f933d9799cf54

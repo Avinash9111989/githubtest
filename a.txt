@@ -2,7 +2,9 @@ ldshfaldsfnlthis first line is being changed.I am adding new comment
 asdfadsfadsf, tried changing this line
 karthik kowshik
 >>>>>>> 6ed8
-15dfca74377a56905071e44f933d9799cf54
+changing this..........
+and adding this....
+dfca74377a56905071e44f933d9799cf54
 >>>>>>> 9e005e5174f7f7055ce3be2b5080e982eeb3837b
 Edited by Kavya
 =======

@@ -1,8 +1,6 @@
-a
+
 ldshfaldsfnlthis first line is being changed.I am adding new comment
 asdfadsfadsf, tried changing this line
-i dont want to modify
-<<<<<<< HEAD
 karthik kowshik
 >>>>>>> 6ed8
 15dfca74377a56905071e44f933d9799cf54

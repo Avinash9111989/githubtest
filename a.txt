@@ -1,4 +1,5 @@
-aldshfaldsfnlthis first line is being changed.I am adding new comment
+a
+ldshfaldsfnlthis first line is being changed.I am adding new comment
 asdfadsfadsf, tried changing this line
 i dont want to modify
 <<<<<<< HEAD
@@ -10,3 +11,4 @@ Edited by Kavya
 =======
 nikhil
 >>>>>>> 8ee9855e058a147842cffbfbacd8d2c4d84dd868
+Hi friends my name Kavya

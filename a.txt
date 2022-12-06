@@ -1,2 +1,7 @@
 aldshfaldsfnlthis first line is being changed.I am adding new comment
+<<<<<<< HEAD
 asdfadsfadsf ahdlfasflsdlflds
+=======
+asdfadsfadsf
+i dont want to modify
+>>>>>>> b3b23e94d8b8c62b00d40309994069adfe4c76b7
